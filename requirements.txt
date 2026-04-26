@@ -1,8 +1,5 @@
 flask
-pymongo
-dnspython
-Werkzeug
-Jinja2
 pandas
-openpyxl
 joblib
+numpy
+scikit-learn
